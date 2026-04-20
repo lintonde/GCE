@@ -78,5 +78,5 @@ This repository includes a Python reference implementation demonstrating one pos
 
 This project is experimental.
 
-It is **not a formally verified cryptographic system**, and no security guarantees are provided. The goal is to explore structural and combinatorial approaches to information hiding.
+It is **not a formally verified cryptographic system**, and no security guarantees are provided. 
 
