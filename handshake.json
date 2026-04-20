@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "grid": {
+    "step": 10.0,
+    "eps": 0.0001
+  },
+  "markers": {
+    "open_x": -1000.0,
+    "close_x": 100000.0
+  },
+  "encoding": {
+    "bit1_dx": 1.0,
+    "bit0_dx": 2.0,
+    "area_threshold": 0.75
+  },
+  "transform": {
+    "scale": 1.37,
+    "shift_x": 23.5,
+    "shift_y": -11.25
+  },
+  "noise": {
+    "count": 400,
+    "xmin": -2000.0,
+    "xmax": 2000.0,
+    "ymin": -2000.0,
+    "ymax": 2000.0,
+    "offgrid_offset": 3.14159
+  }
+}
