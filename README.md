@@ -74,6 +74,8 @@ This repository includes a Python reference implementation demonstrating one pos
 
 ---
 
+This project implements the GCE (Geometric Combinatorial Encryption) scheme. For the full theoretical background and formal description, please refer to the paper: A Geometric-Combinatorial Encryption Scheme Based on Structural Rules and Obfuscated Embedding
+
 ## ⚠️ Disclaimer
 
 This project is experimental.
